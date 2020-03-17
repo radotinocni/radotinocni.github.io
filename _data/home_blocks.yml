@@ -1,0 +1,72 @@
+style: is-light
+height: is-medium
+items:
+  - title: Praha-Radotín
+    parts:
+    - subtitle: Otevírací doba
+      description: |
+        **Ordinace**
+
+        Po | 13–17 (MUDr. Faitová)
+        Út | 7–17
+        St | přítomna pouze sestra
+        Čt | 7–17
+        Pá | 8–14 (MUDr. Faitová)
+
+        **Optika**
+
+        Po | 8–17
+        Út | 8–17
+        St | zavřeno
+        Čt | 8–17
+        Pá | 8–14
+
+    - subtitle: Kontakt
+      description: |
+        **Ordinace**
+
+        [+420 257 810 922](tel:420257810922) (pevná linka)
+        [+420 777 794 887](tel:420777794887) (mobil)
+
+        **Optika**
+
+        [+420 778 060 495](tel:420778060495)
+
+        **Adresa**
+
+        Sídliště 1100, 153 00 Praha 5-Radotín [mapa](http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=S%C3%ADdli%C5%A1t%C4%9B+1100,+Praha&sll=49.980881,14.354882&sspn=0.00217,0.005649&ie=UTF8&hq=&hnear=S%C3%ADdli%C5%A1t%C4%9B+1100%2F31,+153+00+Praha+5-Radot%C3%ADn,+Czech+Republic&ll=49.980357,14.354357&spn=0.00217,0.005649&t=h&z=18), [streetview](http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=S%C3%ADdli%C5%A1t%C4%9B+1100,+Praha&sll=49.980881,14.354882&sspn=0.00217,0.005649&ie=UTF8&hq=&hnear=S%C3%ADdli%C5%A1t%C4%9B+1100%2F31,+153+00+Praha+5-Radot%C3%ADn,+Czech+Republic&t=h&layer=c&cbll=49.980505,14.35403&panoid=2F6bblnobf80YrJxQ2NADg&cbp=12,54.67,,0,5.35&ll=49.980419,14.353954&spn=0.00217,0.005649&z=18)
+
+        **Veřejná doprava**
+
+        Ze stanice metra B - "Smíchovské nádraží" autobusem číslo 244 na konečnou "Sídliště Radotín" (cca - 20min).
+
+        <iframe style="border:none" src="https://frame.mapy.cz/s/duvocehalo" height="280" frameborder="0"></iframe>
+  - title: Řevnice
+    parts:
+    - subtitle: Otevírací doba
+      description: |
+        **Ordinace**
+
+        Pá | 12–19
+        So | 9–16
+
+        **Optika**
+
+        Po | 9–19
+        Út | 9–19
+        St | 9–19
+        Čt | 9–19
+        Pá | 9–19
+        So | 9–16
+    - subtitle: Kontakt
+      description: |
+        **Ordinace i Optika**
+
+        [+420 607 030 090](tel:420607030090)
+
+        **Adresa**
+
+        Herrmannova 120, 252 30 Řevnice
+        [streetview](https://www.google.cz/maps/place/Herrmannova+120,+252+30+%C5%98evnice/@49.9134979,14.2307478,3a,75y,40h,90t/data=!3m7!1e1!3m5!1sUC3lfouOQ7MLrvOYO-l2bg!2e0!6s%2F%2Fgeo0.ggpht.com%2Fcbk%3Fcb_client%3Dmaps_sv.tactile%26output%3Dthumbnail%26thumb%3D2%26panoid%3DUC3lfouOQ7MLrvOYO-l2bg%26w%3D374%26h%3D75%26yaw%3D40%26pitch%3D0%26thumbfov%3D120%26ll%3D49.913498,14.230748!7i13312!8i6656!4m2!3m1!1s0x470ba26ed5e6a41d:0x976064a758654de!6m1!1e1?hl=cs)
+
+        <iframe style="border:none" src="https://frame.mapy.cz/s/getoterapa" height="280" frameborder="0"></iframe>
