@@ -35,7 +35,7 @@ items:
         Čt | 7–17
         Pá | 8–14 (MUDr. Faitová)
 
-        Pro akutní pacienty ordinujeme pouze do 15 hodin. Upřednostňujeme předchozí objednání.
+        Pro akutní pacienty ordinujeme pouze do 15 hodin (mimo pátek). Upřednostňujeme předchozí objednání.
         Zástup pro akutní pacienty v době naší nepřítomnosti MUDr. Šíp, Dobřichovice, [+420 257 712 635](tel:420257712635).
 
         **Optika**
@@ -105,7 +105,7 @@ items:
     parts:
       - subtitle: Optometrie
         description: |
-          Není-li vyžadována přítomnost lékaře jsme schopni na obou optometristických pracovištích změřit a zhotovit brýle bez objednání, popř. s minimální čekací dobou.
+          Není-li vyžadována přítomnost lékaře jsme schopni na obou optometristických pracovištích změřit a zhotovit brýle bez objednání, popř. s minimální čekací dobou. Prosím volejte na uvedená čísla našich optik.
       - subtitle: Kontaktní čočky
         description: |
           Kromě základní ambulantní péče se věnujeme aplikaci kontaktních čoček dioptrických i barevných.
@@ -118,7 +118,7 @@ items:
       - subtitle: Platby
         description: |
           V obou našich pobočkách - v Radotíně i v Řevnicích přijímáme běžné platební karty,
-          stravenky, dárkové šeky a poukazy od takřka všech provozovatelů jako jsou firmy Sodexo, Edenred nebo Le Chèque Déjeuner.
+          dárkové šeky a poukazy od takřka všech provozovatelů jako jsou firmy Sodexo, Edenred nebo Le Chèque Déjeuner.
       - subtitle: Dárkové balíčky
         description: |
           Využijte také možnosti sestavit si dárkové balíčky pro Vaše blízké, kterým nabízíme dárkové poukazy do obou našich optik společně s odborným oftalmologickým vyšetřením.
@@ -158,13 +158,4 @@ items:
           Vyšetření je nebolestivé, relativně krátké, většinou není potřeba oko rozkapávat, takže pacient může potom odjet domů třeba autem. Výsledek vyšetření je vzápětí, a to v podobě barevného přesného zobrazení všech vyšetřovaných struktur oka. I když je toto zobrazení velmi přesné, diagnóza z tohoto vyšetření se u některých onemocnění sítnice i zrakového nervu musí doplnit dalšími vyšetřeními. Lékař, který spektrální OCT vyhodnotí, pacienta vždy poučí a vysvětlí mu výsledek.
 
           Protože toto vyšetření využívá optického paprsku a jeho odrazu, je neproveditelné u očí, které mají neprůhledná média - tedy rohovku, čočku nebo sklivec. Toto vyšetření vyžaduje také spolupráci pacienta - klid hlavy a očí při vyšetření.
-      - subtitle: Názor odborníka
-        description: |
-          **Prim. MUDr. Martin Fučík z oční kliniky Gemini Průhonice**
-
-          OCT je u pacientů s glaukomem a sítnicovými chorobami jednou z mála metod, která umožňuje diagnostikovat okem nepozorovatelné tkaňové změny. Výhody metody:
-
-          1. dokáže rozpoznat příznaky onemocnění dříve, než jsme toho schopni pomoci klasických diagnostických postupů
-          2. dokáže zhodnotit vývoj tkaňových změn v čase a tím umožnit objektivizaci sledované choroby.
-
-          OCT vyšetření patří k nejmodernějším sledovacím zařízením v oftalmologické ambulantní praxi a je dobře, ze se tato metoda šíří mezi naše ambulantní specialisty oboru oftalmologie! Jako glaukomový specialista nechápu, proč toto velmi užitečné a progresivní vyšetření není hrazeno ze zdravotního pojištění. Tento problém však patří na jednání odborných společností s jednotlivými zdravotními pojišťovnami.
+      
