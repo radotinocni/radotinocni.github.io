@@ -1,21 +1,11 @@
 <footer class="footer">
-    <div class="container">
-
-        {% if site.footer_menu %}
-        <div class="columns is-multiline">
-            {% for item in site.data[site.footer_menu] %}
-            <div class="column has-text-centered">
-                <div>
-                    <a href="{{ item.link | prepend: site.baseurl }}" class="link">{{ item.name }}</a>
-                </div>
-            </div>
-            {% endfor %}
-        </div>
-        {% endif %}
-
-        <div class="content is-small has-text-centered">
-            <p class="">Ophtalea s. r. o, IČO 271 91 630, jednatel MUDr.Jana Brychtová,
-                Spisová značka C 103 275 vedená u Městského soudu v Praze</p>
-        </div>
+    <div class="content has-text-centered">
+      <p>
+        <strong>OPHTALEA,&nbsp;s.r.o.</strong><br/>
+        <strong>IČO</strong>&nbsp;271&nbsp;91&nbsp;630<br/>
+        <strong>Jednatel</strong> MUDr.&nbsp;Jana&nbsp;Brychtová<br/>
+        <strong>Spisová značka</strong> C&nbsp;103275 vedená u Městského soudu v Praze<br/>
+        <strong>Sídlo</strong> Tachovská 1156/32, 153 00  Praha 16 – Radotín<br/>
+      </p>
     </div>
 </footer>
