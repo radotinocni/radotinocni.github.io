@@ -1,5 +1,5 @@
 ---
-title: Oční ordinace a optika
+title: Informace
 subtitle: Praha-Radotín/Řevnice
 layout: page
 show_sidebar: true
