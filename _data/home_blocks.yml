@@ -2,7 +2,7 @@ style: is-light
 height: is-medium
 items:
   - title: Novinky
-    class: has-background-light
+    class:
     parts:
     - subtitle: Změna otevírací doby
       description: |
@@ -21,17 +21,22 @@ items:
         V případě nutnosti je možné domluvit si individuální čas vaší návštěvy na číslech [607 030 090](tel:607 030 090) nebo [737 705 036](tel:737 705 036).
         Omlouváme se za komplikace a děkujeme za pochopení.
   - title: Praha-Radotín
-    class: has-background-grey-lighter
+    class: has-background-light
     parts:
     - subtitle: Otevírací doba
       description: |
         **Ordinace**
+
+        Pro objednané pacienty
 
         Po | 13–17 (MUDr. Faitová)
         Út | 7–17
         St | přítomna pouze sestra
         Čt | 7–17
         Pá | 8–14 (MUDr. Faitová)
+
+        Pro akutní pacienty ordinujeme pouze do 15 hodin. Upřednostňujeme předchozí objednání.
+        Zástup pro akutní pacienty v době naší nepřítomnosti MUDr. Šíp, Dobřichovice, [+420 257 712 635](tel:420257712635).
 
         **Optika**
 
@@ -45,9 +50,9 @@ items:
       description: |
         **Ordinace**
 
-        [+420 257 810 922](tel:420257810922) (pevná linka)
-
         [+420 777 794 887](tel:420777794887) (mobil)
+
+        [+420 257 810 922](tel:420257810922) (pevná linka)
 
         **Optika**
 
@@ -64,11 +69,13 @@ items:
 
         Ze stanice metra B - "Smíchovské nádraží" autobusem číslo 244 na konečnou "Sídliště Radotín" (cca - 20min).
   - title: Řevnice
-    class: has-background-light
+    class:
     parts:
     - subtitle: Otevírací doba
       description: |
         **Ordinace**
+
+        Pro objednané pacienty
 
         Pá | 12–19
         So | 9–16
