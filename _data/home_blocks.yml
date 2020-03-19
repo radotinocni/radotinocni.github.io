@@ -130,17 +130,17 @@ items:
 
           **Typ vyšetření / zákroku**	| **cena výkonu (kč)**
           OCT - 1 oko	| 350
-          OCT - obě oči	| 550
-          ŘP amatér	| 700
-          ŘP profesionál	| 1000
-          Kontaktní čočky – 1. vyš.	| 800
-          Kontaktní čočky – kontr.vyš.	| 100
-          Odstranění novotvaru kauterem	| 175
-          Odstranění novotvaru excisí	| 525
-          Rohovkový topogram - obě oči	| 200
+          OCT - obě oči	| 600
+          ŘP amatér	| 750
+          ŘP profesionál	| 1050
+          Kontaktní čočky – 1. vyš.	| 850
+          Kontaktní čočky – kontr.vyš.	| 150
+          Odstranění novotvaru kauterem	| 200
+          Odstranění novotvaru excisí	| 600
+          Rohovkový topogram - obě oči	| 250
           Vyšetření refrakce do dálky i do blízka	| 700
-          Vyšetření stability slzného filmu – obě oči	| 200
-          Stanovení refrakce do dálky i do blízka – obě oči	| 500
+          Vyšetření stability slzného filmu – obě oči	| 250
+          Stanovení refrakce do dálky i do blízka – obě oči	| 600
   - title: OCT
     class: has-background-light
     parts:
