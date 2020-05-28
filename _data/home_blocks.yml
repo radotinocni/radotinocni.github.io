@@ -1,3 +1,34 @@
+style: is-light
+height: is-medium
+items:
+  - title: Novinky
+    class:
+    parts:
+    - subtitle: Změna otevírací doby
+      description: |
+        Vážení zákazníci,
+        
+        **Ordinace v Radotíně je otevřena od pondělí do pátku od 8 do 12 hodin.** 
+        
+         Dočasná otevírací doba optiky v Radotíně:
+
+        Pondělí | 8:00 – 12:00
+        Úterý | 8:00 – 12:00
+        Středa | 8:00 – 12:00
+        Čtvrtek | 8:00 – 12:00
+        Pátek | 8:00 – 12:00
+        
+        Je nutné vzhledem k současné situaci si prosím domlouvejte individuální čas vašich návštěv, a to na čísle [778 060 495](tel:778 060 495) optiku a [777 794 887](tel:777 794 887) pro návštěvu ordinace v Radotíně.
+        
+        **V Řevnicích paní doktorka Brychtová ordinuje čtvrtek až sobota od 9:00 do 15:00 po předchozím telefonickém objednání.** 
+            
+        **Otevírací doba oční optiky v Řevnicích se nemění. Otevřeno je každý všední den 9:00 - 19:00 a v sobotu 9:00 - 16:00.**
+        
+        Je nutné vzhledem k současné situaci si domluvit individuální čas vaší návštěvy na číslech [607 030 090](tel:607 030 090) nebo [737 705 036](tel:737 705 036). 
+        
+        Nově nabízíme rozvoz vyhotovených a předem uhrazených brýlí do vzdálenosti 20 km od Řevnic. V případě zájmu zavolejte, rádi vám řekneme podrobnosti!
+        
+        Těšíme se na viděnou a děkujeme za pochopení.
   - title: Praha-Radotín
     class: has-background-light
     parts:
