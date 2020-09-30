@@ -27,18 +27,18 @@ items:
 
         Po | 13–17 (MUDr. Faitová)
         Út | 7–17
-        St | přítomna pouze sestra
+        St | 8-12
         Čt | 7–17
         Pá | 8–14 (MUDr. Faitová)
 
         Pro akutní pacienty ordinujeme pouze do 15 hodin (mimo pátek). Upřednostňujeme předchozí objednání.
-        Zástup pro akutní pacienty v době naší nepřítomnosti MUDr. Šíp, Dobřichovice, [+420 257 712 635](tel:420257712635).
+        Zástup pro akutní pacienty v době naší nepřítomnosti Oční centrum Lensi, Novodvorská 434, Praha 4, tel.: 732 705 579).
 
         **Optika**
 
         Po | 8–17
         Út | 8–17
-        St | zavřeno
+        St | 8-17
         Čt | 8–17
         Pá | 8–14
 
@@ -64,44 +64,13 @@ items:
         **Veřejná doprava**
 
         Ze stanice metra B - "Smíchovské nádraží" autobusem číslo 244 na konečnou "Sídliště Radotín" (cca - 20min).
-  - title: Řevnice
-    class:
-    parts:
-    - subtitle: Otevírací doba
-      description: |
-        **Ordinace**
-
-        Pro objednané pacienty
-
-        Pá | 9–19
-        So | 9–16
-
-        **Optika**
-
-        Po | 9–19
-        Út | 9–19
-        St | 9–19
-        Čt | 9–19
-        Pá | 9–19
-        So | 9–16
-    - subtitle: Kontakt
-      description: |
-        **Ordinace i Optika**
-
-        [+420 607 030 090](tel:420607030090)
-
-        **Adresa**
-
-        Herrmannova 120, 252 30 Řevnice
-
-        <iframe style="border:none" src="https://frame.mapy.cz/s/getoterapa" height="280" frameborder="0"></iframe>
-        [streetview](https://www.google.cz/maps/place/Herrmannova+120,+252+30+%C5%98evnice/@49.9134979,14.2307478,3a,75y,40h,90t/data=!3m7!1e1!3m5!1sUC3lfouOQ7MLrvOYO-l2bg!2e0!6s%2F%2Fgeo0.ggpht.com%2Fcbk%3Fcb_client%3Dmaps_sv.tactile%26output%3Dthumbnail%26thumb%3D2%26panoid%3DUC3lfouOQ7MLrvOYO-l2bg%26w%3D374%26h%3D75%26yaw%3D40%26pitch%3D0%26thumbfov%3D120%26ll%3D49.913498,14.230748!7i13312!8i6656!4m2!3m1!1s0x470ba26ed5e6a41d:0x976064a758654de!6m1!1e1?hl=cs)
+ 
   - title: Služby
     class: has-background-light
     parts:
       - subtitle: Optometrie
         description: |
-          Není-li vyžadována přítomnost lékaře jsme schopni na obou optometristických pracovištích změřit a zhotovit brýle bez objednání, popř. s minimální čekací dobou. Prosím volejte na uvedená čísla našich optik.
+          Není-li vyžadována přítomnost lékaře jsme schopni změřit a zhotovit brýle bez objednání, popř. s minimální čekací dobou. Prosím volejte na uvedené čísla naší optiky.
       - subtitle: Kontaktní čočky
         description: |
           Kromě základní ambulantní péče se věnujeme aplikaci kontaktních čoček dioptrických i barevných.
@@ -113,8 +82,7 @@ items:
           Nabízené portfolio kontaktních čoček neustále aktualizujeme dle měnící se nabídky na trhu.
       - subtitle: Platby
         description: |
-          V obou našich pobočkách - v Radotíně i v Řevnicích přijímáme běžné platební karty,
-          dárkové šeky a poukazy od takřka všech provozovatelů jako jsou firmy Sodexo, Edenred nebo Le Chèque Déjeuner.
+          Přijímáme běžné platební karty, dárkové šeky a poukazy od takřka všech provozovatelů jako jsou firmy Sodexo, Edenred nebo Le Chèque Déjeuner.
       - subtitle: Dárkové balíčky
         description: |
           Využijte také možnosti sestavit si dárkové balíčky pro Vaše blízké, kterým nabízíme dárkové poukazy do obou našich optik společně s odborným oftalmologickým vyšetřením.
