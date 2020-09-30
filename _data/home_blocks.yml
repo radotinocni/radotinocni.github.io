@@ -1,20 +1,24 @@
-style: is-light
+, vstyle: is-light
 height: is-medium
 items:
   - title: Novinky
     class:
     parts:
-    - subtitle: Otevírací doba
+    - subtitle: Oční ordinace Radotín součástí sítě očních center Lensi
       description: |
-        Vážení zákazníci,
+        Vážení pacienti, vážení klienti
         
-        prázdniny se blíží a nastává doba dovolených. Rádi bychom vás informovali, že paní doktorka Brychtová od 26.6. do konce července neordinuje v Radotíně ani v Řevnicích.
-        Paní doktorka Faitová ordinuje v Radotíně jako obvykle, a to v pondělí a pátek.
-        Od 6.7. do 12.7. má optika v Radotíně zavřeno a do konce měsíce července je otevřena v úterý a ve čtvrtek otevřena pouze do 14 hodin.
+        dovolujeme si Vám oznámit, že se oční ordinace stala od 1.9.2020 součástí sítě očních center Lensi. 
+        Naším cílem je být stále pro vás preferovaným očním pracovištěm, kde s důvěrou můžete řešit své oční problémy. 
+        Z tohoto důvodu jsme rozšířili ordinační hodiny a posílili stávající tým o další zkušené lékaře. Připravujeme také rozšíření nabídky služeb, o všech novinkách vás budeme průběžně informovat.
+        Služby oční optiky jsou vám i nadále k dispozici v uvedené otevírací době - budeme moc rádi, když se přijdete podívat na kompletně novou nabídku brýlových obrub předních dodavatelů a doufáme, že vás potěšíme i lákavými cenami včetně akčních nabídek.
         
-        Přejeme všem krásné prázdniny!
+        Rádi bychom vás také ujistili, že jsme standardně připraveni v této nelehké době opět zajistit vaše vyšetření v bezpečném prostředí naší ordinace. Neodkládejte proto řešení vašich očních problému na později, u chronických onemocnění by se tento přístup nemusel vyplatit.
+        V naší ordinaci i optice vyřešíte vše bezpečně na jednom místě a v jeden čas.
         
-        Tešíme se na vaši návštevu.
+        Tešíme se na vaši návštevu a přejeme vám pevné zdraví!
+        
+        Tým Očního centra Lensi Radotín
         
   - title: Praha-Radotín
     class: has-background-light
@@ -25,11 +29,11 @@ items:
 
         Pro objednané pacienty
 
-        Po | 13–17 (MUDr. Faitová)
-        Út | 7–17
+        Po | 13–17 
+        Út | 7–17 
         St | 8-12
         Čt | 7–17
-        Pá | 8–14 (MUDr. Faitová)
+        Pá | 8–14 
 
         Pro akutní pacienty ordinujeme pouze do 15 hodin (mimo pátek). Upřednostňujeme předchozí objednání.
         Zástup pro akutní pacienty v době naší nepřítomnosti Oční centrum Lensi, Novodvorská 434, Praha 4, tel.: 732 705 579).
